@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(240, 233, 233, 0.911);
+}
+.maincontainer{
+    display: inline-block;
+    margin:6px;
+}    
+
+.container{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 10px;
+}
+.images{
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    margin-top: 10px;
+    border-radius: 5px;
+  
+}
+.name{
+    
+    padding-top: 15px;
+   text-align: left;
+   padding-left: 20px;
+
+}
+.capital{
+    padding-left: 20px;
+    margin-top: 3px;
+
+}
+.p1{
+    background-color: rgba(2, 90, 2, 0.863);
+    color: white;
+    font-size: 14px;
+    border-radius: 3px;
+    padding: 3px;
+}
+.countrycode{
+    padding-left: 20px;
+
+}
+.region{
+    padding-left: 20px;
+
+}
+.lating{
+    padding-left: 20px;
+
+}
+.currencycode{
+    padding-left: 20px;
+
+}
+.currencyname{
+    padding-left: 20px;
+
+}
+.currencysymbol{
+    padding-left: 20px;
+
+}
+.p2{
+    font-weight: bold;
+}
+.p3{
+    font-weight: bold;
+}
+.p4{
+    font-weight: bold;
+}
+.p5{
+    font-weight: bold;
+}
+.p6{
+    font-weight: bold;
+}
+.p7{
+    font-weight: bold;
+}
